@@ -77,6 +77,7 @@ let averageDollarValue = function (cars) {
     }, cars);
     return _average(dollar_values);
 };
+// TODO：
 
 console.log(averageDollarValue(cars));
 

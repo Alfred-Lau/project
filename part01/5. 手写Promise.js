@@ -1,3 +1,4 @@
+// TODO：
 function customePromsie(resplve, reject) {
     this.resolveFns = [];
     this.rejectFns = [];

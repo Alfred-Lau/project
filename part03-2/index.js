@@ -25,3 +25,5 @@ let vm = new Vue({
 */
 
 //  1.1 简答题
+
+// 2.2 修改文件 index.html js/vue.js js/compiler.js
